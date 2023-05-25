@@ -1,0 +1,8 @@
+print('Das ist für die vierte Aufgabe')
+print('Befehle:')
+print('git init')
+print('git add .')
+print('git commit -m "Erster neuer Commit" -m "Das ist der erste Commit für die vierte Aufgabe"')
+print('git remote add origin <Link>')
+print('git remot -v')
+print('git push -u origin master')
